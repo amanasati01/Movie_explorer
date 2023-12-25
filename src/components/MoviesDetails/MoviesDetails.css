@@ -1,0 +1,22 @@
+.main{
+    color: white;
+}
+.title{
+    color: white;
+}
+/* MoviesDetails.css */
+.image{
+    margin: 0px auto;
+}
+.whole {
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: nowrap; */
+    color: white;
+    /* border: 2px solid red; */
+  }
+ .details{
+    /* margin-left: 10px; */
+     color: white;
+     margin: 0px 10px;
+ }
